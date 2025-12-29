@@ -1,0 +1,20 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "this is lesson3 learning",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "browserslist" :[
+    "last 2 versions"
+  ]
+}
